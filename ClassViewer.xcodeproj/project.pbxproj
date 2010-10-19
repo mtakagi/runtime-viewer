@@ -35,12 +35,12 @@
 		6506D1C012641B5C009155C0 /* DecodeTypeEncoding.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DecodeTypeEncoding.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* ClassViewer-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ClassViewer-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		AE2E0C5E125A786B00BE551F /* libSystem.B.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libSystem.B.dylib; path = usr/lib/libSystem.B.dylib; sourceTree = SDKROOT; };
-		AE2E0D7C125B078B00BE551F /* ProtocolRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ProtocolRootViewController.h; path = ../ProtocolRootViewController.h; sourceTree = "<group>"; };
-		AE2E0D7D125B078B00BE551F /* ProtocolRootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ProtocolRootViewController.m; path = ../ProtocolRootViewController.m; sourceTree = "<group>"; };
+		AE2E0D7C125B078B00BE551F /* ProtocolRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProtocolRootViewController.h; sourceTree = "<group>"; };
+		AE2E0D7D125B078B00BE551F /* ProtocolRootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProtocolRootViewController.m; sourceTree = "<group>"; };
 		AE73A9A812577044007AE5B1 /* ClassInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassInfoViewController.h; sourceTree = "<group>"; };
 		AE73A9A912577044007AE5B1 /* ClassInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassInfoViewController.m; sourceTree = "<group>"; };
-		AE73ABCB1259EE9C007AE5B1 /* ProtocolInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ProtocolInfoViewController.h; path = ../ProtocolInfoViewController.h; sourceTree = "<group>"; };
-		AE73ABCC1259EE9C007AE5B1 /* ProtocolInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ProtocolInfoViewController.m; path = ../ProtocolInfoViewController.m; sourceTree = "<group>"; };
+		AE73ABCB1259EE9C007AE5B1 /* ProtocolInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProtocolInfoViewController.h; sourceTree = "<group>"; };
+		AE73ABCC1259EE9C007AE5B1 /* ProtocolInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProtocolInfoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
