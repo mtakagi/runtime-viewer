@@ -44,7 +44,7 @@
 	
 	// Window の作成と View を追加し Window の表示。
 	window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
-    [window addSubview:tabBarController.view];
+    window.rootViewController = tabBarController;
     [window makeKeyAndVisible];
 	
 	// 開放。
